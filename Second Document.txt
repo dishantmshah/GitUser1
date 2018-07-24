@@ -1,1 +1,2 @@
-This is the initial document.
+This is the second document.
+Second document edited.
